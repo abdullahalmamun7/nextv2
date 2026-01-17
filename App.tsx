@@ -115,7 +115,7 @@ const App: React.FC = () => {
             </div>
             <div>
                  <h1 className="text-xl font-bold tracking-tight gradient-text">{BOT_NAME}</h1>
-                 <p className="text-xs text-gray-500 font-medium">Your AI Companion</p>
+                 <p className="text-xs text-gray-500 font-medium">Your Nexto</p>
             </div>
         </div>
         

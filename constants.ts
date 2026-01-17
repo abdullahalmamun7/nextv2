@@ -1,5 +1,5 @@
 export const BOT_NAME = "Nexto";
-export const CREATOR_NAME = "Abdullah Al Mamun";
+export const CREATOR_NAME = "Abd";
 
 // Updated to a 3D Blue Robot avatar
 export const BOT_AVATAR_URL = "https://cdn-icons-png.flaticon.com/512/8649/8649595.png"; 
